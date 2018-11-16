@@ -1,0 +1,32 @@
+tags: active-korean unit-1-hangeul
+
+[sound:한글.mp3]	한글	Hangeul<p class="small">(alphabet coréen)</p>
+[sound:자모.mp3]	자모	lettre, jamo
+[sound:모음.mp3]	모음	voyelle
+[sound:자음.mp3]	자음	consonne
+[sound:받침.mp3]	받침	batchim
+
+[sound:기역.mp3]	기역	ㄱ [k]<p class="small">(consonne <span style="background-color: Wheat">vélaire</span>, 아음 «&nbsp;son des molaires&nbsp;»)</p>
+[sound:니은.mp3]	니은	ㄴ [n]<p class="small">(consonne <span style="background-color: LightBlue">alvéolaire</span>, 설음 «&nbsp;son de la langue&nbsp;»)</p>
+[sound:디귿.mp3]	디귿	ㄷ [t]<p class="small">(consonne <span style="background-color: LightBlue">alvéolaire</span>, 설음 «&nbsp;son de la langue&nbsp;»)</p>
+[sound:리을.mp3]	리을	ㄹ [r]/[l]<p class="small">(consonne <span style="background-color: LightBlue">alvéolaire</span>, 설음 «&nbsp;son de la langue&nbsp;»)</p>
+[sound:미음.mp3]	미음	ㅁ [m]<p class="small">(consonne <span style="background-color: DarkSeaGreen">bilabiale</span>, 순음 «&nbsp;son des lèvres&nbsp;»)</p>
+[sound:비읍.mp3]	비읍	ㅂ [p]<p class="small">(consonne <span style="background-color: DarkSeaGreen">bilabiale</span>, 순음 «&nbsp;son des lèvres&nbsp;»)</p>
+[sound:시옷.mp3]	시옷	ㅅ [s]<p class="small">(consonne fricative, 치음 «&nbsp;son des dents&nbsp;»)</p>
+[sound:이응.mp3]	이응	ㅇ [ŋ]<p class="small">(consonne <span style="background-color: LightCoral">glottale</span>, 후음 «&nbsp;son de la gorge&nbsp;»)</p>
+[sound:지읒.mp3]	지읒	ㅈ [c]<p class="small">(consonne fricative, 치음 «&nbsp;son des dents&nbsp;»)</p>
+[sound:치읓.mp3]	치읓	ㅊ [cʰ]<p class="small">(consonne fricative, 치음 «&nbsp;son des dents&nbsp;»)</p>
+[sound:키읔.mp3]	키읔	ㅋ [kʰ]<p class="small">(consonne <span style="background-color: Wheat">vélaire</span>, 아음 «&nbsp;son des molaires&nbsp;»)</p>
+[sound:티읕.mp3]	티읕	ㅌ [tʰ]<p class="small">(consonne <span style="background-color: LightBlue">alvéolaire</span>, 설음 «&nbsp;son de la langue&nbsp;»)</p>
+[sound:피읖.mp3]	피읖	ㅍ [pʰ]<p class="small">(consonne <span style="background-color: DarkSeaGreen">bilabiale</span>, 순음 «&nbsp;son des lèvres&nbsp;»)</p>
+[sound:히읗.mp3]	히읗	ㅎ [h]<p class="small">(consonne <span style="background-color: LightCoral">glottale</span>, 후음 «&nbsp;son de la gorge&nbsp;»)</p>
+
+[sound:한쌍.mp3]	한쌍	paire, couple
+
+[sound:쌍기역.mp3]	쌍기역	ㄲ<p class="small">(consonne <span style="background-color: Wheat">vélaire</span>, 아음 «&nbsp;son des molaires&nbsp;»)</p>
+[sound:쌍디귿.mp3]	쌍디귿	ㄸ<p class="small">(consonne <span style="background-color: LightBlue">alvéolaire</span>, 설음 «&nbsp;son de la langue&nbsp;»)</p>
+[sound:쌍비읍.mp3]	쌍비읍	ㅃ<p class="small">(consonne <span style="background-color: DarkSeaGreen">bilabiale</span>, 순음 «&nbsp;son des lèvres&nbsp;»)</p>
+[sound:쌍시옷.mp3]	쌍시옷	ㅆ<p class="small">(consonne fricative, 치음 «&nbsp;son des dents&nbsp;»)</p>
+[sound:쌍지읒.mp3]	쌍지읒	ㅉ<p class="small">(consonne fricative, 치음 «&nbsp;son des dents&nbsp;»)</p>
+
+[sound:자음-2.mp3]	<table><tr style="background-color: Wheat"><td>ㄱ</td><td>기역</td><td class="small" rowspan=2>vélaire</td></tr><tr style="background-color: Wheat"><td>ㄲ</td><td>쌍기역</td></tr><tr style="background-color: LightBlue"><td>ㄴ</td><td>니은</td><td class="small" rowspan=4>alvéolaire</td></tr><tr style="background-color: LightBlue"><td>ㄷ</td><td>디귿</td></tr><tr style="background-color: LightBlue"><td>ㄸ</td><td>쌍디귿</td></tr><tr style="background-color: LightBlue"><td>ㄹ</td><td>리을</td></tr><tr style="background-color: DarkSeaGreen"><td>ㅁ</td><td>미음</td><td class="small" rowspan=3>bilabiale</td></tr><tr style="background-color: DarkSeaGreen"><td>ㅂ</td><td>비읍</td></tr><tr style="background-color: DarkSeaGreen"><td>ㅃ</td><td>쌍비읍</td></tr><tr><td>ㅅ</td><td>시옷</td><td class="small" rowspan=2>fricative</td></tr><tr><td>ㅆ</td><td>쌍시옷</td></tr><tr style="background-color: LightCoral"><td>ㅇ</td><td>이응</td><td class="small">glottale</td></tr><tr><td>ㅈ</td><td>지읒</td><td class="small" rowspan=3>fricative</td></tr><tr><td>ㅉ</td><td>쌍지읒</td></tr><tr><td>ㅊ</td><td>치읓</td></tr><tr style="background-color: Wheat"><td>ㅋ</td><td>키읔</td><td class="small">vélaire</td></tr><tr style="background-color: LightBlue"><td>ㅌ</td><td>티읕</td><td class="small">alvéolaire</td></tr><tr style="background-color: DarkSeaGreen"><td>ㅍ</td><td>피읖</td><td class="small">bilabiale</td></tr><tr style="background-color: LightCoral"><td>ㅎ</td><td>히읗</td><td class="small">glottale</td></tr></table>	Ordre alphabétique des 19 consonnes<p class="small">(14 de base (자음) + 5 doubles (쌍자음))</p>
