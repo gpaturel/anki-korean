@@ -1,0 +1,214 @@
+-- ------------------------------------------------------------------------------------------------
+Ordre alphabétique des 19 consonnes<p class="small">(14 de base (자음) + 5 doubles (쌍자음))</p>
+
+    ㄱ ㄲ ㄴ ㄷ ㄸ ㄹ ㅁ ㅂ ㅃ ㅅ ㅆ ㆁ ㅋ ㅌ ㅍ ㅈ ㅉ ㅊ ㅎ
+
+
+
+-- ------------------------------------------------------------------------------------------------
+Liaison (re-syllabification)<p>Quand la syllabe qui se termine par une consonne est suivie par une syllabe qui commence par une voyelle, la consonne finale de la syllabe précédente se prononce comme consonne initiale de la syllabe suivante.
+
+<table>
+<tr><td>십오</td><td>[시보]</td></tr>
+<tr><td>대학원생</td><td>[대하권생]</td></tr>
+<tr><td>이분이</td><td>[이부니]</td></tr>
+<tr><td>한국어 수업이</td><td>[한구거 수어비]</td></tr>
+<tr><td>영화감독이</td><td>[영화감도기]</td></tr>
+<tr><td>괜찮아요</td><td>[괜차나요]</td></tr>
+<tr><td>넓어요</td><td>[널버요]</td></tr>
+<tr><td>읽어요</td><td>[일거요]</td></tr>
+<tr><td>많아요</td><td>[마나요]</td></tr>
+<tr><td>없어요</td><td>[업써요]</td></tr>
+<tr><td>오늘 시간이 있어요</td><td>[오늘 시가니 이써요]</td></tr>
+<tr><td>생활이</td><td>[생화리]</td></tr>
+<tr><td>운전 학원에서</td><td>[운전 하궈네서]</td></tr>
+<tr><td>편의점에서</td><td>[펴니저메서]</td></tr>
+<tr><td>연극을</td><td>[연그글]</td></tr>
+<tr><td>생일이에요</td><td>[생이리에요]</td></tr>
+<tr><td>십이월</td><td>[시비월]</td></tr>
+<tr><td>오늘은</td><td>[오느른]</td></tr>
+<tr><td>월요일</td><td>[워료일]</td></tr>
+<tr><td>금요일</td><td>[그묘일]</td></tr>
+<tr><td>씻어요</td><td>[씨서요]</td></tr>
+</table>
+
+
+
+-- ------------------------------------------------------------------------------------------------
+Prononciation des consonnes finales (받침 simplification)<p>En position initiale, toutes les consonnes se prononcent en fonction de leurs caratéristiques. Mais en position finale, les consonnes ont simplement sept prononciations différentes&nbsp;:<table>
+<tr><td>ㄴ</td><td>[ㄴ]</td></tr>
+<tr><td>ㄹ</td><td>[ㄹ]</td></tr>
+<tr><td>ㅁ</td><td>[ㅁ]</td></tr>
+<tr><td>ㅇ</td><td>[ㅇ]</td></tr>
+<tr><td>ㄱ/ㅋ/ㄲ</td><td>[ㄱ]</td></tr>
+<tr><td>ㅂ/ㅍ</td><td>[ㅂ]</td></tr>
+<tr><td rowspan="4">ㄷ/ㅌ</td><td>[ㄷ]</td></tr>
+<tr><td>ㅅ/ㅆ</td></tr>
+<tr><td>ㅈ/ㅊ</td></tr>
+<tr><td>ㅎ</td></tr>
+</table>
+
+(a) 구엌 [구억]
+(b) 끝 [끋]
+(c) 맛 [맏]
+(d) 꽃 [꼳]
+(e) 앞 [압]
+
+
+-- ------------------------------------------------------------------------------------------------
+3. Reinforcement ("tensification")
+
+(a) Stop + ㄱ : 학기 [학끼]
+(b) Stop + ㄷ : 먹다 [먹따]
+(c) Stop + ㅅ : 각색 [각쌕]
+(d) Stop + ㅈ : 녹저 [녹쩌]
+(e) Stop + ㅂ : 밭벼 [받뼈]
+(f) ㅎ + ㅅ : 좋습니다 [조씁니다]
+
+http://www.koreanwikiproject.com/wiki/Tensification
+Tensification happens when a consonant becomes tense because of what preceeds it.
+
+Velar stops: ㄱ/ㅋ/ㄲ
+
+  ㄱ/ㅋ/ㄲ + ㄱ/ㄲ [ㄱ + ㄲ]
+  ㄱ/ㅋ/ㄲ + ㄷ/ㄸ [ㄱ + ㄸ]
+  ㄱ/ㅋ/ㄲ + ㅂ/ㅃ [ㄱ + ㅃ]
+  ㄱ/ㅋ/ㄲ + ㅅ/ㅆ [ㄱ + ㅆ]
+  ㄱ/ㅋ/ㄲ + ㅈ/ㅉ [ㄱ + ㅉ]
+
+Coronal stops: ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ
+
+  ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ + ㄱ/ㄲ [ㄷ + ㄲ]
+  ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ + ㄷ/ㄸ [ㄷ + ㄸ]
+  ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ + ㅂ/ㅃ [ㄷ + ㅃ]
+  ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ + ㅅ/ㅆ [ㄷ + ㅆ]
+  ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ + ㅈ/ㅉ [ㄷ + ㅉ]
+
+Labial stops: ㅂ/ㅍ
+
+  ㅂ/ㅍ + ㄱ/ㄲ [ㅂ + ㄲ]
+  ㅂ/ㅍ + ㄷ/ㄸ [ㅂ + ㄸ]
+  ㅂ/ㅍ + ㅂ/ㅃ [ㅂ + ㅃ]
+  ㅂ/ㅍ + ㅅ/ㅆ [ㅂ + ㅆ]
+  ㅂ/ㅍ + ㅈ/ㅉ [ㅂ + ㅉ]
+
+Tension de la consonne (reinforcement, tensification)<p>Dans une syllabe, quand les consonnes finales ㄱ/ㅋ/ㄲ ㅂ/ㅍ ㄷ/ㅌ/ㄸ ㅅ/ㅆ ㅈ/ㅊ rencontrent ㄱ ㄷ ㅂ ㅅ ㅈ comme consonnes initiales de la syllabe qui suit, cette consonne initiale se prononce ㄲ ㄸ ㅃ ㅆ ㅉ.
+  대학생 [대학쌩]
+  학교 [학꾜]
+  학교 식당 [학꾜 식땅]
+  반갑습니다 [반갑씀니다]
+  역사 [역싸]
+  읽기 [일끼]
+  중국 사람 [중국 싸람]
+  처음 뵙겠습니다 [처음 뵙께씀니다]
+  기숙사 [기숙싸]
+  없어요 [업써요]
+  잡지 [잡찌]
+  찻집 [차찝]
+  극장 [극짱]
+  저녁도 [저녁또]
+
+
+
+-- ------------------------------------------------------------------------------------------------
+4. Nasalization
+
+(a) ㄱ + nasal : 한국말 [한궁말]
+(b) ㄷ + nasal : 듣는 [든는]
+(c) ㅂ + nasal : 법무 [범무]
+(d) Nasal + ㄹ : 동립 [동닙]
+(e) ㄴ + ㄹ across boundary : 테헤란-로 [테헤란노]
+
+http://www.koreanwikiproject.com/wiki/Nasalization
+When a ㄴ, ㄹ, or ㅁ interacts with other consonants, sometimes it undergoes "nasalization." Nasalization basically means it forces another consonant (and/or itself in the case of the ㄹ) to become a nasal sound (ㄴ, ㅇ, or ㅁ). This rule is called 비음화 in Korean.
+
+  ㄱ (ㄱ/ㅋ/ㄲ) + ㄴ/ㄹ  →  ㅇ + ㄴ	학년 [항년] | 대학로 [대항노]
+  ㄱ (ㄱ/ㅋ/ㄲ) + ㅁ  →  ㅇ + ㅁ
+  ㅇ + ㄹ  →  ㅇ + ㄴ     명령법 [명녕법]
+  ㅎ + ㄴ  →  ㄴ + ㄴ
+  ㄴ + ㅎ  →  ㄴ + ㄴ
+  ㄷ (ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ) + ㄴ/ㄹ  →  ㄴ + ㄴ	있는 [인는]
+  ㄷ (ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ) + ㅁ  →  ㄴ + ㅁ
+  ㅂ (ㅂ/ㅍ) + ㄴ/ㄹ  →  ㅁ + ㄴ		반갑습니다 [반갑씀니다] | 미안합니다 [미안함니다] | 죄송합니다 [죄송함니다] | 처음 뵙겠습니다 [처음 뵙께씀니다]
+  ㅁ + ㄹ  →  ㅁ + ㄴ
+  ㄴ + ㄹ (across boundary) →  ㄴ + ㄴ
+
+Nasalisation – Dans une syllabe, quand les consonnes finales ㄱ/ㅋ/ㄲ ㅂ/ㅍ ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ ㅎ rencontrent ㄴ/ㅁ comme consonnes initiales de la syllabe qui suit, cette consonne initiale se prononce selon les règles suivantes :
+
+- ㄱ (ㄱ/ㅋ/ㄲ) + ㄴ/ㅁ [ㅇ]
+- ㅂ (ㅂ/ㅍ) + ㄴ/ㅁ [ㅁ]
+- ㄷ (ㄷ/ㅌ ㅅ/ㅆ ㅈ/ㅊ ㅎ) + ㄴ/ㅁ [ㄴ]
+
+
+-- ------------------------------------------------------------------------------------------------
+5. ㄹ Assimilation
+
+(a) ㄹ + ㄴ : 실내 [실래]
+(b) ㄴ + ㄹ : 신라 [실라]
+
+Latéralisation – Quand la consonne finale de la syllabe précédente ㄴ rencontre ㄹ qui est à la consonne initiale de la syllabe suivante, ou quand la consonne finale de la syllabe précédente ㄹ rencontre ㄴ qui est à la consonne initiale de la syllabe suivante, la consonne ㄴ se prononce comme ㄹ.
+
+
+-- ------------------------------------------------------------------------------------------------
+6. Aspiration
+
+(a) ㄱ + ㅎ : 북한 [부칸]
+(b) ㅎ + ㄷ : 좋다 [조타]
+
+Aspirationization happens when a ㅎ connects with other consonants. The ㅎ acts the same if it's in a double consonant 받침.
+
+Aspiration – Quand la consonne ㅎ rencontre les consonnes ordinaires ㄱ ㄷ ㅂ ㅈ dans la syllabe précédente ou suivante, la prononciation de ces consonnes ordinaires se transforme en aspirées. ㄱ ㄷ ㅂ ㅈ se prononcent respectivement ㅋ ㅌ ㅍ ㅊ.
+
+  영어 수업하고 [영어 수어파고]
+  좋다 [조타]
+  많다 [만타]
+  외국 학생이 [외구 칵쌩이]
+  괜찮다 [괜찬타]
+  책하고 [채카고]
+  어떻게 [어떠케]
+
+
+-- ------------------------------------------------------------------------------------------------
+7. Palatalization
+
+(a) ㅌ + 이 : 같이 [가치]
+(b) ㄷ + 이 : 곧이 [고지]
+(c) ㄷ + 히 : 닫히다 [다치다]
+
+Palatalisation – Quand les consonnes finales ㄷ/ㅌ rencontrent 이 de la syllabe suivante, ces consonnes finales se prononcent ㅈ/ㅊ.
+
+  같이 [가치]
+  굳이 [구지]
+  붙이다 [부치다]
+
+
+-- ------------------------------------------------------------------------------------------------
+8. Intrusive 니은
+
+(a) 받침 + ㅣ (across boundary) : 나뭇-잎 [나문닢]
+(b) 색-연필 [생년필]
+
+
+-- ------------------------------------------------------------------------------------------------
+9. ㅎ 받침 dropping
+
+(a) 좋아 [조아]
+
+
+
+끝나요 [끈나요]
+몇 시예요 [며 씨예요]
+생일이에요 [생이리에요]
+시작해요 [시자캐요]
+십이월 [시비월]
+오늘은 [오느른]
+축하해요 [추카해요]
+금요일 [그묘일]
+도착해요 [도차캐요]
+십분 [십뿐]
+씻어요 [씨서요]
+열심히 [열씸히]
+월요일 [워료일]
+인터넷도 [인터넷또]
+읽다 [익따]
+읽어요 [일거요]
