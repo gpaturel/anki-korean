@@ -1,0 +1,143 @@
+tags: active-korean unit-8-locations-directions
+
+
+## 어휘
+
+[sound:방향.mp3]	방향	direction
+
+[sound:사이.mp3]	사이	entre
+[sound:이쪽으로.mp3]	이쪽으로	par ici<p class="small">(이쪽: ce côté-ci, -(으)로: direction)</p>
+
+[sound:제_앞에.mp3]	제 앞에<p class="small">(&ne;&nbsp;제 뒤에)</p>	devant moi<p class="small">(&ne;&nbsp;derrière moi)</p>
+[sound:제_뒤에.mp3]	제 뒤에<p class="small">(&ne;&nbsp;제 앞에)</p>	derrière moi<p class="small">(&ne;&nbsp;devant moi)</p>
+[sound:제_옆에.mp3]	제 옆에	à côté de moi
+[sound:제_오른쪽에.mp3]	제 오른쪽에<p class="small">(&ne;&nbsp;제 왼쪽에)</p>	à ma droite<p class="small">(&ne;&nbsp;à ma gauche)</p>
+[sound:제_왼쪽에.mp3]	제 왼쪽에<p class="small">(&ne;&nbsp;제 오른쪽에)</p>	à ma gauche<p class="small">(&ne;&nbsp;à ma droite)</p>
+
+[sound:오른쪽_옆에.mp3]	오른쪽 옆에<p class="small">(&ne;&nbsp;왼쪽 옆에)</p>	du côté droit<p class="small">(&ne;&nbsp;du côté gauche)</p>
+[sound:왼쪽_옆에.mp3]	왼쪽 옆에<p class="small">(&ne;&nbsp;오른쪽 옆에)</p>	du côté gauche<p class="small">(&ne;&nbsp;du côté droit)</p>
+
+[sound:윗층.mp3]	윗층<p class="small">(&ne;&nbsp;아래층)</p>	étage au-dessus, à l'étage<p class="small">(&ne;&nbsp;étage en dessous)</p>
+[sound:아래층.mp3]	아래층<p class="small">(&ne;&nbsp;윗층)</p>	étage en dessous, en bas<p class="small">(&ne;&nbsp;étage au-dessus)</p>
+
+[sound:으로.mp3]	-(으)로	direction vers un endroit
+[sound:앞으로_가세요.mp3]	앞으로 가세요	avancez (tout droit)
+[sound:오른쪽으로_가세요.mp3]	오른쪽으로 가세요	allez à droite
+[sound:왼쪽으로_가세요.mp3]	왼쪽으로 가세요	allez à gauche
+
+[sound:세탁소.mp3]	세탁소	blanchisserie, teinturier, pressing
+[sound:세탁실.mp3]	세탁실	laverie, buanderie
+[sound:호텔.mp3]	호텔	hôtel
+[sound:화장.mp3]	화장	maquillage
+[sound:서울대학교.mp3]	서울대학교	Université nationale de Séoul<p class="small">(angl. “Seoul National University” ; abr. SNU)</p><ul><li>une des 3 <span class="em">SKY</span>, acronyme désignant les trois meilleures universités de Corée du Sud, les deux autres étant l'Université de Corée (<span class="em">고려대학교</span>, Korea University) et l'université Yonsei (<span class="em">연세대학교</span>, Yonsei University)</li></ul>
+[sound:지하철역.mp3]	지하철역	station de métro
+[sound:사무실.mp3]	사무실	bureau<p class="small">(pièce)</p>
+[sound:제주도.mp3]	제주(특별자치도)<hr/><img src="제주도.svg">	île de Jeju<p class="small">(province autonome spéciale)</p><ul class="small"><li>île volcanique située à 85 km au sud de la péninsule</li></ul>
+[sound:인천.mp3]	인천(광역시)<hr/><img src="인천.svg">	Incheon<p class="small">(ville métropolitaine)</p><ul class="small"><li>ville portuaire située à 50 km à l'ouest de la capitale Séoul, sur la mer Jaune</li><li>3<sup>ème</sup> ville la plus peuplée de Corée (après Séoul et Busan)</li><li>2<sup>ème</sup> plus grand port maritime de Corée (après celui de Busan)</li><li>1<sup>er</sup> aéroport de la Corée du Sud : 인천국제공항, aéroport (공항) international (국제) d'Incheon</li></ul>
+
+[sound:옷장.mp3]	옷장 <span class="small">[옫짱]</span><p class="small light">/ 벽장</p>	garde-robe, penderie<p class="small light">/ placard</p>
+[sound:냉장.mp3]	냉장	réfrigération
+[sound:냉장고.mp3]	냉장고	réfrigérateur
+[sound:소파.mp3]	소파	canapé<p class="small">(angl. “sofa”)</p>
+[sound:식탁.mp3]	식탁 <span class="small light">/ 탁자</span>	table à manger <span class="small light">/ table</span>
+[sound:탁자.mp3]	탁자 <span class="small light">/ 식탁</span>	table <span class="small light">/ table à manger</span>
+[sound:칠판.mp3]	칠판	tableau<p class="small">(pour écrire)</p>
+[sound:상자.mp3]	상자	boîte, caisse
+
+[sound:야채.mp3]	야채	légume
+[sound:아이스크림.mp3]	아이스크림	glace, crème glacée<p class="small">(angl. “ice cream”)</p>
+[sound:미터.mp3]	미터	mètre<p class="small">(unité de distance ; angl. “meter”)</p>
+[sound:고양이.mp3]	고양이	chat
+[sound:꽃병.mp3]	꽃병	vase<p class="small">(꽃: fleur, 병: bouteille)</p>
+
+[sound:건너편.mp3]	건너편 <span class="small light">/ 맞은편</span>	en face de<p class="small">(de l'autre côté <span class="small light">/ en vis-à-vis</span>)</p>
+[sound:맞은편.mp3]	맞은편 <span class="small light">/ 건너편</span>	en face de<p class="small">(en vis-à-vis <span class="small light">/ de l'autre côté</span>)</p>
+[sound:사거리.mp3]	사거리	intersection, carrefour<p class="small">(사: 4, 거리: rue)</p>
+
+[sound:건너다.mp3]	건너다	traverser
+[sound:건너세요.mp3]	건너세요<div class="활용"><div class="부정사">건너다</div><div class="명령법">건너세요</div></div>	traversez<p class="small">(s'il vous plaît)</p>
+[sound:육교.mp3]	육교	passerelle
+[sound:육교를_건너세요.mp3]	육교를 건너세요<div class="활용"><div class="부정사">건너다</div><div class="명령법">건너세요</div></div>	empruntez la passerelle<p class="small">(s'il vous plaît)</p>
+[sound:지하도.mp3]	지하도	passage souterrain<p class="small">(지하: souterrain)</p>
+[sound:지하도를_건너세요.mp3]	지하도를 건너세요<div class="활용"><div class="부정사">건너다</div><div class="명령법">건너세요</div></div>	empruntez le passage souterrain<p class="small">(s'il vous plaît)</p>
+[sound:횡단보도.mp3]	횡단보도	passage piéton
+[sound:횡단보도를_건너세요.mp3]	횡단보도를 건너세요<div class="활용"><div class="부정사">건너다</div><div class="명령법">건너세요</div></div>	empruntez le passage piéton<p class="small">(s'il vous plaît)</p>
+
+[sound:지우개.mp3]	지우개	gomme
+[sound:지우다.mp3]	지우다	effacer
+
+[sound:다른.mp3]	다른	autre, distinct
+[sound:다르다.mp3]	다르다	être différent
+
+
+## 핵심 대화
+
+[sound:네_있어요.mp3]	<ul><li>방에 컴퓨터가 있어요?</li><li>네, 있어요.</li></ul>	<ul><li>Y a-t-il un ordinateur dans la chambre ?</li><li>Oui, il y en a.</li></ul>
+
+[sound:아니요_없어요.mp3]	<ul><li>방에 옷장이 있어요?</li><li>아니요, 없어요.</li></ul>	<ul><li>Y a-t-il une penderie dans la chambre ?</li><li>Non, il n'y en a pas.</li></ul>
+
+[sound:책이_어디에_있어요.mp3]	<ul><li>책이 어디에 있어요?</li><li>책상 위에 있어요.</li></ul>	<ul><li>Où est le livre ?</li><li>Il est sur le bureau.</li></ul>
+
+[sound:3층에_있어요.mp3]	<ul><li>식당이 몇 층에 있어요?</li><li>3층에 있어요.</li></ul>	<ul><li>À quel étage est le restaurant ?</li><li>Il est au 3<sup>ème</sup> étage.</li></ul>
+
+[sound:이_근처에_세탁소가_있어요.mp3]	<ul><li>이 근처에 세탁소가 있어요?</li><li>네, 있어요.</li></ul>	<ul><li>Y a -t-il un pressing à proximité ?</li><li>Oui, il y en a un.</li></ul>
+
+[sound:이_버스는_서울대학교로_가요.mp3]	<ul><li>이 버스는 서울대학교로 가요?</li><li>네, 가요.</li></ul>	<ul><li>Est-ce que ce bus va à l'université nationale de Séoul ?</li><li>Oui.</li></ul>
+
+[sound:지하철역까지_얼마나_걸려요.mp3]	<ul><li>지하철역까지 얼마나 걸려요?</li><li>십 분쯤 걸려요.</li></ul>	<ul><li>Combien de temps faut-il pour arriver au métro ?</li><li>Cela prend environ dix minutes.</li></ul>
+
+[sound:생선이_어디에_있어요.mp3]	<ul><li>생선이 어디에 있어요?</li><li>왼쪽으로 쭉 가세요. 생선은 고기 가게 옆에 있어요.</li></ul>	<ul><li>Où est le poisson ?</li><li>Allez tout à gauche. Le poisson est à côté de la boucherie.</li></ul>
+
+[sound:주스는_어디에_있어요.mp3]	<ul><li>주스는 어디에 있어요?</li><li>앞으로 쭉 가세요. 술 옆에 있어요.</li></ul>	<ul><li>Où sont les jus ?</li><li>Allez tout droit. C'est à côté des alcools.</li></ul>
+
+[sound:이_근처에_백화점이_있어요.mp3]	<ul><li>이 근처에 백화점이 있어요?</li><li>네, 있어요. 이쪽으로 쭉 가세요. 그럼 오른쪽에 있어요.</li></ul>	<ul><li>Y a-t-il des grands magasins dans les environs ?</li><li>Oui, il y en a. Prenez par ici. Ensuite, c'est sur votre droite.</li></ul>
+
+
+## 듣기
+
+[sound:4층에_있어요.mp3]	<ul><li>구두가 몇 층에 있어요?</li><li>4층에 있어요.</li></ul>	<ul><li>À quel étage sont les chaussures ?</li><li>Elles sont au 4<sup>ème</sup> étage.</li></ul>
+
+[sound:1층에_있어요.mp3]	<ul><li>가방은 어디에 있어요?</li><li>1층에 있어요.</li></ul>	<ul><li>Où sont les sacs ?</li><li>Ils sont au 1<sup>er</sup> étage.</li></ul>
+
+[sound:2층에_있어요.mp3]	<ul><li>바지는 2층에 있어요?</li><li>네, 2층에 있어요.</li></ul>	<ul><li>Les pantalons sont bien au 2<sup>ème</sup> étage ?</li><li>Oui, tout à fait.</li></ul>
+
+[sound:7층에_있어요.mp3]	<ul><li>책은 5층에 있어요?</li><li>아니요, 7층에 있어요.</li></ul>	<ul><li>Les livres sont bien au 5<sup>ème</sup> étage ?</li><li>Non, ils sont au 7<sup>ème</sup> étage.</li></ul>
+
+[sound:9층에_있어요.mp3]	<ul><li>식당은 어디에 있어요?</li><li>9층에 있어요.</li></ul>	<ul><li>Où est le restaurant ?</li><li>Il est au 9<sup>ème</sup> étage.</li></ul>
+
+[sound:식당_옆에_있어요.mp3]	<ul><li>커피숍은 어디에 있어요?</li><li>식당 옆에 있어요.</li></ul>	<ul><li>Où est le café ?</li><li>Il est à côté du restaurant.</li></ul>
+
+
+[sound:책상_옆에_있어요.mp3]	<ul><li>가방이 어디에 있어요?</li><li>책상 옆에 있어요.</li></ul>	<ul><li>Où est le sac ?</li><li>Il est à côté du bureau.</li></ul>
+
+[sound:책상_위에_있어요.mp3]	<ul><li>우산은 책상 위에 있어요?</li><li>네, 책상 위에 있어요.</li></ul>	<ul><li>Est-ce que le parapluie est sur le bureau ?</li><li>Oui, il est sur le bureau.</li></ul>
+
+[sound:의자_아래에_있어요.mp3]	<ul><li>신문은 어디에 있어요?</li><li>의자 아래에 있어요.</li></ul>	<ul><li>Où est le journal ?</li><li>Il est sous la chaise.</li></ul>
+
+[sound:침대_위에_있어요.mp3]	<ul><li>코트는 옷장 안에 있어요?</li><li>아니요, 침대 위에 있어요.</li></ul>	<ul><li>Est-ce que le manteau est dans la penderie ?</li><li>Non, il est sur le lit.</li></ul>
+
+
+[sound:우체국은_세탁소_옆에_있어요.mp3]	<ul><li>이 근처에 우체국이 있어요?</li><li>네, 있어요. 이쪽으로 백 미터쯤 가세요. 우체국은 세탁소 옆에 있어요.</li></ul>	<ul><li>Y a-t-il un bureau de poste dans les environs ?</li><li>Oui, il y en a un. Avancez par ici sur une centaine de mètres. Le bureau de poste est à côté du pressing.</li></ul>
+
+[sound:약국_뒤에_있어요.mp3]	<ul><li>저, 병원이 어디에 있어요?</li><li>약국 뒤에 있어요.</li><li>감사합니다.</li></ul>	<ul><li>Eh bien, où est l'hôpital?</li><li>Il est derrière la pharmacie.</li><li>Merci.</li></ul>
+
+[sound:서울은행은_약국_옆에_있어요.mp3]	<ul><li>서울은행이 어디에 있어요?</li><li>이쪽으로 쭉 가세요. 그럼 왼쪽에 약국이 있어요. 서울은행은 약국 옆에 있어요.</li><li>네, 고맙습니다.</li></ul>	<ul><li>Où est la banque de Séoul ?</li><li>Allez par ici. Ensuite, il y a une pharmacie sur la gauche. La banque de Séoul est à côté de la pharmacie.</li><li>Merci.</li></ul>
+
+
+[sound:극장이_몇_층에_있어요.mp3]	<ul>극장이 몇 층에 있어요?</ul>	<ul>À quel étage est le cinéma ?</ul>
+[sound:냉장고가_어디에_있어요.mp3]	<ul>냉장고가 어디에 있어요?</ul>	<ul>Où est le réfrigérateur ?</ul>
+[sound:이_버스는_시청으로_가요.mp3]	<ul>이 버스는 시청으로 가요?</ul>	<ul>Est-ce que ce bus va à l'hôtel de ville ?</ul>
+
+[sound:은행이_몇_층에_있어요.mp3]	<ul><li>은행이 몇 층에 있어요?</li><li>일 층에 있어요.</li></ul>	<ul><li>À quel étage est la banque ?</li><li>Elle est au 1<sup>er</sup> étage.</li></ul>
+
+[sound:극장이_사_층에_있어요.mp3]	<ul><li>극장이 사 층에 있어요?</li><li>아니요, 삼 층에 있어요.</li></ul>	<ul><li>Est-ce que le cinéma est au 4<sup>ème</sup> étage ?</li><li>Non, il est au 3<sup>ème</sup>.</li></ul>
+
+[sound:병원이_몇_층에_있어요.mp3]	<ul><li>병원이 몇 층에 있어요?</li><li>이 층에 있어요.</li></ul>	<ul><li>À quel étage est l'hôpital ?</li><li>Il est au 2<sup>ème</sup>.</li></ul>
+
+[sound:식당이_사_층에_있어요.mp3]	<ul><li>식당이 사 층에 있어요?</li><li>네, 사 층에 있어요.</li></ul>	<ul><li>Est-ce que le restaurant est au 4<sup>ème</sup> étage ?</li><li>Oui.</li></ul>
+
+[sound:커피숍은_몇_층에_있어요.mp3]	<ul><li>커피숍은 몇 층에 있어요?</li><li>오 층에 있어요.</li></ul>	<ul><li>À quel étage est le café ?</li><li>Il est au 5<sup>ème</sup>.</li></ul>
+
+[sound:우리_점심_먹을까요.mp3]	<ul><li>애니 씨, 토요일에 시간<span class="light">(이)</span> 있어요?</li><li>네, 있어요.</li><li>그럼 우리 점심<span class="light">(을)</span> 먹을까요?</li><li>촣아요.</li></ul>	<ul><li>Annie, as-tu du temps samedi ?</li><li>Oui.</li><li>Alors que dirais-tu de déjeuner ensemble ?</li><li>Parfait.</li></ul>
+
+[sound:몇_시에_어디에서_만날까요.mp3]	<ul><li>몇 시에 어디에서 만날까요?</li><li>열두 시에 사랑책방 앞에서 만나요.</li><li>사랑책방요? 사랑책방이 어디에 있어요?</li><li>서울우체국 알아요?</li><li>네, 알아요.</li><li>책방은 우체국 뒤에 있어요.</li><li>네, 그럼 열두 시에 사랑책방 앞에서 봐요.</li></ul>	<ul><li>À quelle heure et où nous retrouvons-nous ?</li><li>Retrouvons-nous à 12h devant la librairie «&nbsp;Amour&nbsp;».</li><li>La librairie «&nbsp;Amour&nbsp;» ? Où est cette librairie ?</li><li>Tu connais la poste de Séoul ?</li><li>Oui.</li><li>La librairie est derrière la poste.</li><li>D'accord, alors on se voit à 12h devant la librairie «&nbsp;Amour&nbsp;».</li></ul>
